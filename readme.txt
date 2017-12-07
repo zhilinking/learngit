@@ -24,3 +24,5 @@ i am testing the git server in two days
 
 
 ======================================================
+
+i start to learn git in the coming two weeks.
